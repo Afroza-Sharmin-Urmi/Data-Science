@@ -1,0 +1,2 @@
+# Data-Science
+This is a project about detecting spam in SMS on mobile devices using machine learning classifiers. The main aim is to find out the best classifier for detecting spam in SMS. Since nowadays the number of spammers increased with the vast growth of mobile devices, which leads to serious cybercrime and also leaks one's privacy. The overall project is implemented on Jupyter notebook using a python programming language.
